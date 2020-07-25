@@ -28990,20 +28990,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
- .u-header {background-image: none}
-.u-header .u-sheet-1 {min-height: 359px}
+ .u-header .u-sheet-1 {min-height: 375px}
 .u-header .u-menu-1 {margin: 1px auto 0 0}
 .u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0; font-weight: 700}
 .u-header .u-nav-2 {font-size: 1rem}
-.u-header .u-social-icons-1 {height: 24px; min-height: 16px; width: 145px; min-width: 112px; white-space: nowrap; margin: -28px 0 0 auto}
+.u-header .u-social-icons-1 {height: 24px; min-height: 16px; width: 145px; min-width: 112px; white-space: nowrap; margin: -28px 0 60px auto}
 .u-header .u-icon-1 {height: 100%}
 .u-header .u-icon-2 {height: 100%}
 .u-header .u-icon-3 {height: 100%}
-.u-header .u-icon-4 {height: 100%}
-.u-header .u-image-1 {height: 322px; margin: 4px auto 1px 0} 
-@media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 359px}
-.u-header .u-social-icons-1 {width: 145px; margin-top: -28px}
-.u-header .u-image-1 {height: 322px; margin-right: initial; margin-left: initial} }
+.u-header .u-icon-4 {height: 100%} 
+@media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 375px}
+.u-header .u-social-icons-1 {width: 145px; margin-top: -28px} }
 
 @media (max-width: 767px){ .u-header .u-sheet-1 {min-height: 148px} }
 @media (max-width: 575px){ .u-header .u-sheet-1 {min-height: 165px} }
