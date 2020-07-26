@@ -28741,7 +28741,6 @@ a.u-link.u-text-hover-grey-90:hover {
         margin-bottom: 20px;
         font-family: Merriweather, serif;
         font-weight: 700;
-        font-style: italic;
     }
     h2:not(.u-subtitle)
     {
@@ -29041,6 +29040,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-4 {font-size: 1rem}
 .u-header .u-nav-5 {font-size: 1rem}
 .u-header .u-nav-6 {font-size: 1rem}
+.u-header .u-nav-7 {font-size: 1rem}
+.u-header .u-nav-8 {font-size: 1rem}
 .u-header .u-social-icons-1 {height: 35px; min-height: 16px; width: 186px; min-width: 112px; white-space: nowrap; margin: -35px 21px 0 auto}
 .u-header .u-icon-1 {height: 100%}
 .u-header .u-icon-2 {height: 100%}
