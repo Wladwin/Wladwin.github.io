@@ -29055,7 +29055,8 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 991px){ .u-header .u-image-1 {min-height: 303px} }
 @media (max-width: 767px){ .u-header .u-image-1 {min-height: 227px} }
 @media (max-width: 575px){ .u-header .u-image-1 {min-height: 143px}
-.u-header .u-menu-1 {width: auto; margin-left: 13px} }
+.u-header .u-menu-1 {width: auto; margin-top: 12px; margin-left: 13px}
+.u-header .u-social-icons-1 {margin-top: -35px} }
  .u-footer {background-image: linear-gradient(white, #fbf5eb)}
 .u-footer .u-sheet-1 {min-height: 400px}
 .u-footer .u-layout-wrap-1 {width: 1140px; margin: 20px auto 0 0}
