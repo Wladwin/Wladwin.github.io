@@ -29033,7 +29033,7 @@ a.u-link.u-text-hover-grey-90:hover {
 /*end-variables sitestylecss*/
  .u-header {background-image: none}
 .u-header .u-image-1 {min-height: 479px; background-position: 50% 50%}
-.u-header .u-menu-1 {margin: 12px auto 0 99px}
+.u-header .u-menu-1 {margin: 14px auto 0 99px}
 .u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0; font-weight: 700; text-transform: uppercase}
 .u-header .u-nav-2 {font-size: 1rem}
 .u-header .u-nav-3 {font-size: 1rem}
@@ -29042,7 +29042,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-6 {font-size: 1rem}
 .u-header .u-nav-7 {font-size: 1rem}
 .u-header .u-nav-8 {font-size: 1rem}
-.u-header .u-social-icons-1 {height: 35px; min-height: 16px; width: 186px; min-width: 112px; white-space: nowrap; margin: -35px 21px 0 auto}
+.u-header .u-social-icons-1 {height: 35px; min-height: 16px; width: 186px; min-width: 112px; white-space: nowrap; margin: -36px 21px 0 auto}
 .u-header .u-icon-1 {height: 100%}
 .u-header .u-icon-2 {height: 100%}
 .u-header .u-icon-3 {height: 100%}
@@ -29051,7 +29051,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-logo-image-1 {max-width: 63px; max-height: 63px} 
 @media (max-width: 1199px){ .u-header .u-image-1 {min-height: 395px}
 .u-header .u-menu-1 {margin-left: 0}
-.u-header .u-social-icons-1 {width: 186px; margin-top: -35px; margin-right: 21px} }
+.u-header .u-social-icons-1 {width: 186px; margin-top: -36px; margin-right: 21px} }
 @media (max-width: 991px){ .u-header .u-image-1 {min-height: 303px} }
 @media (max-width: 767px){ .u-header .u-image-1 {min-height: 227px} }
 @media (max-width: 575px){ .u-header .u-image-1 {min-height: 143px} }
@@ -29113,7 +29113,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-9 {margin-left: 0} }
 @media (max-width: 991px){ .u-footer .u-layout-cell-1 {min-height: NaNpx}
 .u-footer .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
-.u-footer .u-image-1 {margin-left: 4px; width: 61px}
+.u-footer .u-image-1 {margin-left: 4px}
 .u-footer .u-layout-cell-2 {min-height: NaNpx}
 .u-footer .u-container-layout-2 {padding-left: 30px; padding-right: 30px}
 .u-footer .u-layout-cell-3 {min-height: NaNpx}
