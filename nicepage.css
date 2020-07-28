@@ -29111,19 +29111,19 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {width: 268px}
 .u-footer .u-layout-cell-7 {min-height: 33px}
 .u-footer .u-text-9 {margin-left: 0} }
-@media (max-width: 991px){ .u-footer .u-layout-cell-1 {min-height: 100px}
+@media (max-width: 991px){ .u-footer .u-layout-cell-1 {min-height: NaNpx}
 .u-footer .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
 .u-footer .u-image-1 {margin-left: 4px; width: 61px}
-.u-footer .u-layout-cell-2 {min-height: 100px}
+.u-footer .u-layout-cell-2 {min-height: NaNpx}
 .u-footer .u-container-layout-2 {padding-left: 30px; padding-right: 30px}
-.u-footer .u-layout-cell-3 {min-height: 100px}
+.u-footer .u-layout-cell-3 {min-height: NaNpx}
 .u-footer .u-container-layout-3 {padding-left: 30px; padding-right: 30px}
-.u-footer .u-layout-cell-4 {min-height: 100px}
+.u-footer .u-layout-cell-4 {min-height: NaNpx}
 .u-footer .u-container-layout-4 {padding-left: 30px; padding-right: 30px}
-.u-footer .u-layout-cell-5 {min-height: 100px}
+.u-footer .u-layout-cell-5 {min-height: NaNpx}
 .u-footer .u-container-layout-5 {padding-left: 30px; padding-right: 30px}
-.u-footer .u-layout-cell-6 {min-height: 100px}
-.u-footer .u-layout-cell-7 {min-height: 100px} }
+.u-footer .u-layout-cell-6 {min-height: 25px}
+.u-footer .u-layout-cell-7 {min-height: 25px} }
 @media (max-width: 767px){ .u-footer {min-height: auto}
 .u-footer .u-layout-wrap-1 {width: 540px; margin-right: auto; margin-left: 0}
 .u-footer .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
@@ -29132,11 +29132,15 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
 .u-footer .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
 .u-footer .u-container-layout-5 {padding-left: 10px; padding-right: 10px}
+.u-footer .u-layout-cell-6 {min-height: 38px}
 .u-footer .u-container-layout-6 {padding-left: 10px; padding-right: 10px}
+.u-footer .u-layout-cell-7 {min-height: 38px}
 .u-footer .u-container-layout-7 {padding-left: 10px; padding-right: 10px} }
 @media (max-width: 575px){ .u-footer {min-height: 284px}
 .u-footer .u-layout-wrap-1 {margin-right: initial; margin-left: initial; width: auto}
-.u-footer .u-image-1 {margin-top: 5px; margin-bottom: 5px; margin-left: -4px; width: 62px} }
+.u-footer .u-image-1 {margin-top: 5px; margin-bottom: 5px; margin-left: -4px; width: 62px}
+.u-footer .u-layout-cell-6 {min-height: 24px}
+.u-footer .u-layout-cell-7 {min-height: 24px} }
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
